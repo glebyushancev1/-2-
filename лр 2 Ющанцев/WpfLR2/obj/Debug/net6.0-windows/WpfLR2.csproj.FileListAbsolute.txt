@@ -1,0 +1,44 @@
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.exe
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.deps.json
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.runtimeconfig.json
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.dll
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.pdb
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2_MarkupCompile.cache
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2_MarkupCompile.lref
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\App.baml
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.g.resources
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.AssemblyInfo.cs
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.dll
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\refint\WpfLR2.dll
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.pdb
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.genruntimeconfig.cache
+C:\Users\admin\Desktop\ЛР2 Девяткин\WpfLR2\obj\Debug\net6.0-windows\ref\WpfLR2.dll
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.exe
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.deps.json
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.runtimeconfig.json
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.dll
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\bin\Debug\net6.0-windows\WpfLR2.pdb
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2_MarkupCompile.cache
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2_MarkupCompile.lref
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\App.baml
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.g.resources
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.AssemblyInfo.cs
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.dll
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\refint\WpfLR2.dll
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.pdb
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\WpfLR2.genruntimeconfig.cache
+C:\Users\admin\Desktop\лр 2 Ющанцев\WpfLR2\obj\Debug\net6.0-windows\ref\WpfLR2.dll
